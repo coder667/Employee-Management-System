@@ -1,0 +1,7 @@
+Employee ID:12345
+Employee Name     :Somesh 
+Father's Name     :Shiv
+Employee Contact  :121
+Email Information :sg@gmail.com
+Employee position :CeO
+Employee Salary   :230000
